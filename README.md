@@ -16,6 +16,8 @@ This Repository Covers The Basics Of This Amazing Library Which Will Help You Ge
 
 I've Created This Project When I Start Learning Computer Vision As A Reference Which Helps Me A Lot From The Start To Now. Later I Taught Sharing This Will Help Many Others Like You.
 
+I've Tried To Make The Repository Free Of Errors & Easy To Understand. If You Find Any Errors Or Have Suggestions Please Open An Issue Or Create A Pull Request.
+
 # Running
 
 To Get Started With OpenCV Basics On Your Local Machine Follow This Simple Steps One By One To Get Up & Running.
@@ -63,9 +65,9 @@ Install Required Dependencies(OpenCV, Numpy)
 pip install -r requirements.txt
 ```
 
-Run OpenCVBasics
+Run Any Of The Program You Want(For Instance Reading An Image)
 ```
-python main.py
+python read_image.py
 ```
 
 ### If This Repository Helps You Learn OpenCV I've Also Started A New YouTube Channel. You Can Subscribe The Channel If You Want Tutorials & Hands On Python, Computer Vision, Machine Learning Projects For Free
