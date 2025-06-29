@@ -14,7 +14,7 @@ This Repository Covers The Basics Of This Amazing Library Which Will Help You Ge
 
 # Motivation
 
-I've Created This Project When I Start Learning Computer Vision As A Reference Which Helps Me A Lot From The Start To Now. Later I Taught Sharing This Will Help Many Others Like You.
+I've Created This Project When I Start Learning Computer Vision As A Reference Which Helps Me A Lot From The Start To Now. Later I Taught Sharing This Will Help Many Others Like You As It Helped Me.
 
 I've Tried To Make The Repository Free Of Errors & Easy To Understand. If You Find Any Errors Or Have Suggestions Please Open An Issue Or Create A Pull Request.
 
