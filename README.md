@@ -33,7 +33,7 @@ python --version
 ```
 
 # Reminder
-You Can Use Whatever Code Editor(VS Code, Sublimetext Even Python IDLE) You Use. But I Recommend Using [PyCharm](https://www.jetbrains.com/pycharm/download) Python IDE For The Best Experience(In Fact The Repository Was Created Using PyCharm)
+You Can Use Whatever Code Editor(VS Code, Sublime Text Even Python IDLE) You Use. But I Recommend Using [PyCharm](https://www.jetbrains.com/pycharm/download) Python IDE For The Best Experience(In Fact The Repository Was Created Using PyCharm)
 
 ### With PyCharm
 
