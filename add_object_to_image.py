@@ -14,6 +14,6 @@ cv2.circle(image, (400, 50), 30, (255, 255, 0), 5)
 
 cv2.putText(image, "Sample Text", (270, 115), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 0), 1)
 
-cv2.imshow("OpenCV Basics", image)
+cv2.imshow("OpenCV Basics - Add Objects To Image", image)
 
 cv2.waitKey(0)

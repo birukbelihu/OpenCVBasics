@@ -43,7 +43,7 @@ Copy The Repository URL
 https://github.com/BirukBelihu/OpenCVBasics.git
 ```
 
-Go Back To PyCharm, Click On Clone Repository, Paste The Copied Repository URL & Clone. It Handles Everything From Installing Packages From Requirements Text File & Other Stuffs.
+Go Back To PyCharm, Click On Clone Repository, Paste The Copied Repository URL & Clone. It Handles Everything From Installing Packages From Requirements Text File To Preparing The Project For Running & Other Stuffs.
 
 ### Without PyCharm
 

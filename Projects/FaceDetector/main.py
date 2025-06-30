@@ -15,7 +15,7 @@ while videocapture.isOpened():
             cv2.rectangle(resized_image, (x, y), (x + width, y + height), (255, 0, 0), 1)
             cv2.putText(resized_image, "Face", (x + 10, y - 10), cv2.QT_FONT_NORMAL, 0.5, (232, 161, 19), 2)
 
-        cv2.imshow("OpenCV Basics", resized_image)
+        cv2.imshow("Face Detector", resized_image)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break

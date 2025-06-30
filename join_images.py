@@ -43,6 +43,6 @@ resized_image = cv2.resize(image, (500, 500))
 horizontal_stack = np.hstack((resized_image, resized_image))
 vertical_stack = np.vstack((resized_image, resized_image))
 
-cv2.imshow("OpenCV Basics", horizontal_stack)
+cv2.imshow("OpenCV Basics - Join Images", horizontal_stack)
 
 cv2.waitKey(0)
